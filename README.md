@@ -1,8 +1,7 @@
 # St4lth-pausemenu
 This is shit, i know
 
-ST4LTH PAUSE MENU
-Standalone
+ST4LTH PAUSE MENU - Standalone
 
 I made this pausemenu just to prove a point, do whatever u want with it i dont care
 
