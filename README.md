@@ -1,5 +1,5 @@
 # St4lth-pausemenu
-This is shit, i know
+This is shit, i know -- DONT USE IT, IF UR NOT GOING TO REMAKE IT
 
 ST4LTH PAUSE MENU - Standalone
 
